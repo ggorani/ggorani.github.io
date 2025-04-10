@@ -19,7 +19,7 @@ last_modified_at: 2025-04-09
 머신러닝은 데이터를 이용해 명시적 프로그래밍 없이 패턴을 학습하는 알고리즘이다.
 
 사람이 “이 조건이면 이렇게 해!”라고 코드를 짜는 게 아니라, 컴퓨터가 데이터 보고 “아~ 이게 이렇구나~” 하면서 알아서 함수 형태를 찾아내는 거지.
-'''
+```
 📦 머신러닝
 │
 ├── 1. 지도학습 (Supervised Learning)
@@ -43,7 +43,7 @@ last_modified_at: 2025-04-09
     ├── 목적: 최적의 행동(Policy) 학습
     ├── 핵심 요소: 상태(State), 행동(Action), 보상(Reward)
     └── 예: 게임 AI, 로봇 팔 제어, 추천 시스템
-'''
+```
 
 
 
@@ -71,7 +71,7 @@ last_modified_at: 2025-04-09
 
 
 🌿 회귀 전체 흐름도
-'''
+```
 Regression (회귀)
 ├── 1. 선형 기반 (Linear Models)
 │   ├── 1.1 단순 선형 회귀 (Simple Linear Regression)
@@ -83,7 +83,7 @@ Regression (회귀)
 │       └── 엘라스틱넷 (ElasticNet)
 └── 2. 비선형 회귀 (Nonlinear Regression)
     └── 예: 지수 회귀, 로그 회귀, 시그모이드 회귀 등
-'''
+```
 ---
 
 ### 2-3-1. 선형 기반 (Linear Models)
